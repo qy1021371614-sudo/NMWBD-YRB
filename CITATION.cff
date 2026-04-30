@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript."
+title: "SGTU-Net-YRB: Static-Guided Temporal U-Net for Monthly Water-Body Gap Filling"
+authors:
+  - family-names: "Qiu"
+    given-names: "Yu"
+  - family-names: "Wang"
+    given-names: "Wen"
+repository-code: "https://github.com/TO-BE-ADDED/SGTU-Net-YRB"
+date-released: "2026-04-29"
+version: "0.1.0"
